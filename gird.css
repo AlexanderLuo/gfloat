@@ -1,0 +1,128 @@
+.g-container {
+  width: 100%;
+  box-sizing: border-box;
+}
+.g-container .row {
+  box-sizing: border-box;
+}
+.g-container .row:before,
+.g-container .row:after {
+  content: "";
+  display: block;
+  visibility: hidden;
+  clear: both;
+  *zoom: 1;
+}
+.g-container .g {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+}
+.g-container .g05 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 5%;
+}
+.g-container .g1 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 10%;
+}
+.g-container .g15 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 15%;
+}
+.g-container .g2 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 20%;
+}
+.g-container .g25 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 25%;
+}
+.g-container .g3 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 30%;
+}
+.g-container .g35 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 35%;
+}
+.g-container .g4 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 40%;
+}
+.g-container .g45 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 45%;
+}
+.g-container .g5 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 50%;
+}
+.g-container .g55 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 55%;
+}
+.g-container .g6 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 60%;
+}
+.g-container .g65 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 65%;
+}
+.g-container .g7 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 70%;
+}
+.g-container .g8 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 80%;
+}
+.g-container .g85 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 85%;
+}
+.g-container .g9 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 90%;
+}
+.g-container .g10 {
+  box-sizing: border-box;
+  float: left;
+  min-height: 1px;
+  width: 100%;
+}
